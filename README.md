@@ -94,4 +94,3 @@ streamlit run tardis_dashboard.py
 
 ## 🙋‍♀️ Author
 - Made with ❤️ by [@llosts](https://github.com/llosts)
-- Made with ❤️ by [@FloWindels](https://github.com/FloWindels)
